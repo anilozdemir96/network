@@ -8,9 +8,9 @@
     "text": ""
   },
   "text": {
-    "more": "In this visualization, one may see the FENS professors' publication network between 2015-2019 in Sabanci University. Every node represnts  instructors and edges represents they have common publication or not",
-    "intro": "",
-    "title": ""
+    "more": "In this visualization, one may see the FENS professors' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not",
+    "intro": "In this visualization, one may see the FENS professors' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not",
+    "title": "In this visualization, one may see the FENS professors' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not"
   },
   "legend": {
     "edgeLabel": "Paper",
