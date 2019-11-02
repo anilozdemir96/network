@@ -8,8 +8,8 @@
     "text": ""
   },
   "text": {
-    "more": "Color of edges , adjusted by the weigths which corresponds common number of publication. Size of nodes adjusted by Degree of that node.",
-    "intro": "In this visualization, one may see the  faculty members\u0027\u0027 publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not\n",
+    "more": "Color of edges adjusted by the weigths which corresponds common number of publication and size of nodes adjusted by Degree of that node.",
+    "intro": "In this visualization, one may see the  faculty members' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not.\n",
     "title": "2015-2019 Sabanci University Publication Network"
   },
   "legend": {
