@@ -5,21 +5,21 @@
   "logo": {
     "file": "anil-graph",
     "link": "anil-graph",
-    "text": "In this visualization, one may see the FENS professors' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not"
+    "text": ""
   },
   "text": {
-    "more": "bla bla bla",
-    "intro": "",
-    "title": "Sabanci University Publication Network"
+    "more": "Color of edges , adjusted by the weigths which corresponds common number of publication. Size of nodes adjusted by Degree of that node.",
+    "intro": "In this visualization, one may see the  faculty members\u0027\u0027 publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not\n",
+    "title": "2015-2019 Sabanci University Publication Network"
   },
   "legend": {
-    "edgeLabel": "Paper",
-    "colorLabel": "",
-    "nodeLabel": "Author"
+    "edgeLabel": "connections",
+    "colorLabel": "Authors",
+    "nodeLabel": "Authors"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Id",
+    "groupSelectorAttribute": "Year",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
