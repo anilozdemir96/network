@@ -8,13 +8,13 @@
     "text": ""
   },
   "text": {
-    "more": "Color of edges adjusted by the weigths which corresponds common number of publication and size of nodes adjusted by Degree of that node.",
-    "intro": "In this visualization, one may see the  faculty members' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not.\n",
+    "more": "Color of edges , adjusted by the weigths which corresponds common number of publication. Size of nodes adjusted by Degree of that node.",
+    "intro": "In this visualization, one may see the  faculty members' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not. For nodes, Red,Blue,Green represents FENS,FMAN,FASS respectively.\n",
     "title": "2015-2019 Sabanci University Publication Network"
   },
   "legend": {
-    "edgeLabel": "connections",
-    "colorLabel": "Authors",
+    "edgeLabel": "Common Publication",
+    "colorLabel": "Faculty",
     "nodeLabel": "Authors"
   },
   "features": {
@@ -33,15 +33,15 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 10,
+      "labelThreshold": 1,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 5,
-      "minEdgeSize": 2,
+      "maxEdgeSize": 10,
+      "minEdgeSize": 5,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
