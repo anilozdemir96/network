@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "anil-graph",
+    "link": "anil-graph",
+    "text": ""
+  },
+  "text": {
+    "more": "Color of edges , adjusted by the weigths which corresponds common number of publication. Size of nodes adjusted by Degree of that node.",
+    "intro": "In this visualization, one may see the  faculty members' publication network between 2015-2019 in Sabanci University. Every node represents  instructors and edges represents they have common publication or not. For nodes, Red,Blue,Green represents Fens,Fman,Fass respectively.\n",
+    "title": "2015-2019 Sabanci University Publication Network"
+  },
+  "legend": {
+    "edgeLabel": "Common Publication",
+    "colorLabel": "Faculty",
+    "nodeLabel": "Authors"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Year",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": "Label"
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 4,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 10,
+      "minEdgeSize": 5,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
